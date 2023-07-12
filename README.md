@@ -30,9 +30,9 @@
 
 <h2 class="title languages_title">Languages:</h2>
                 <ol class="lists-property">
-                    <li class="languages-list__items">🇧🇾Russian - Native</li>
-                    <li class="languages-list__items">😄English - A-2/B-1</li>
-                    <li class="languages-list__items">😄Polish - B-1</li>
+                    <li class="languages-list__items">Russian - Native</li>
+                    <li class="languages-list__items">English - A-2/B-1</li>
+                    <li class="languages-list__items">Polish - B-1</li>
                 </ol>
 
   <h2 class="title courses_title">Courses:</h2>
