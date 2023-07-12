@@ -21,18 +21,18 @@
 
 <h2 class="title skills_title">Skills and Proficiency:</h2>
                 <ol class="lists-property">
-                    ⚡<li class="skills__list-items">HTML5</li> ⚡<li class="skills__list-items">CSS3</li>
-                    ⚡<li class="skills__list-items">JS</li>  ⚡<li class="skills__list-items">Git, GitHub</li>
-                    ⚡<li class="skills__list-items">BEM</li>  ⚡<li class="skills__list-items">SASS</li>
-                    ⚡<li class="skills__list-items">VS Code</li>  ⚡<li class="skills__list-items">WebStorm</li>
-                    ⚡<li class="skills__list-items">Figma</li>
+                    <li class="skills__list-items">⚡HTML5</li><li class="skills__list-items">⚡CSS3</li>
+                    <li class="skills__list-items">⚡JS</li><li class="skills__list-items">⚡Git, GitHub</li>
+                    <li class="skills__list-items">⚡BEM</li><li class="skills__list-items">⚡SASS</li>
+                    <li class="skills__list-items">⚡VS Code</li><li class="skills__list-items">⚡WebStorm</li>
+                    <li class="skills__list-items">⚡Figma</li>
                 </ol>
 
 <h2 class="title languages_title">Languages:</h2>
                 <ol class="lists-property">
-                    <li class="languages-list__items">Russian - Native</li>
-                    <li class="languages-list__items">English - A-2/B-1</li>
-                    <li class="languages-list__items">Polish - B-1</li>
+                    <li class="languages-list__items">🇧🇾Russian - Native</li>
+                    <li class="languages-list__items">😄English - A-2/B-1</li>
+                    <li class="languages-list__items">😄Polish - B-1</li>
                 </ol>
 
   <h2 class="title courses_title">Courses:</h2>
