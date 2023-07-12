@@ -10,6 +10,7 @@
   </p>
   
 <h2 class="title projects_title">Projects:</h2>
+
 # [iniuta-JSFEPRESCHOOL-shelter](https://rolling-scopes-school.github.io/iniuta-JSFE2023Q1/shelter/pages/main/)
 # [iniuta-JSFEPRESCHOOL-plants](https://rolling-scopes-school.github.io/iniuta-JSFEPRESCHOOL/plant/)
 # [iniuta-JSFEPRESCHOOL-portfolio](https://rolling-scopes-school.github.io/iniuta-JSFEPRESCHOOL/portfolio/)
