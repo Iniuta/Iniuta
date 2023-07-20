@@ -11,6 +11,7 @@
   
 <h2 class="title projects_title">Projects:</h2>
 
+# [iniuta-JSFEPRESCHOOL-CV](https://htmlpreview.github.io/?https://github.com/Iniuta/CV/blob/main/index.html)
 # [iniuta-JSFEPRESCHOOL-shelter](https://rolling-scopes-school.github.io/iniuta-JSFE2023Q1/shelter/pages/main/)
 # [iniuta-JSFEPRESCHOOL-plants](https://rolling-scopes-school.github.io/iniuta-JSFEPRESCHOOL/plant/)
 # [iniuta-JSFEPRESCHOOL-momentum](https://rolling-scopes-school.github.io/iniuta-JSFEPRESCHOOL/momentum/)
