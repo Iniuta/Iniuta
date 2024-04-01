@@ -1,12 +1,9 @@
 ### Hi there 👋
 
 <p class="about-myself__introduce">
-                  🔭 A young and ambitious front-end developer seeking an opportunity to enter the field of development.
-                    I possess knowledge of HTML, CSS, and JavaScript.
-                    I have a degree in psychology, <br>and my extensive experience in this area helps me to
-                    easily find a common language with different people and interact well with them, so I'm
-                    a good team player.
-                    I am eager to learn, grow, and apply my skills in practice.
+                  🔭 I am a student in frontend technologies and I'm seeking an opportunity to enter the development field. I have finished several development courses where I got knowledge of HTML, CSS, JavaScript, and SQL, which I lerned through the W3Schools platform. Throughout these courses, I focused on practical applications, including creating adaptive and responsive multi-page landing pages using the BEM methodology and the SASS preprocessor. I integrated interactive elements such as burger menus, carousels, sliders, pagination, internationalization, interaction with REST APIs, and pop-ups using JavaScript and CSS. You can find examples of my work on my GitHub profile: https://github.com/Iniuta. Additionally, I improved my problem-solving skills by solving algorithmic challenges in JavaScript on platforms like CodeWars: https://www.codewars.com/users/rsschool_3a3882472327a6a1.
+I have a degree in psychology, and my extensive experience in this area helps me to easily find a common language with different people and interact well with them, so I'm a good team player. I am eager to learn, grow, and apply my skills in practice.
+
   </p>
   
 <h2 class="title projects_title">Projects:</h2>
